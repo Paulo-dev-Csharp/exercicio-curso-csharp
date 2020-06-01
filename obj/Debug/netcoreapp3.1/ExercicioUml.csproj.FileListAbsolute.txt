@@ -1,0 +1,13 @@
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.csprojAssemblyReference.cache
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.csproj.CoreCompileInputs.cache
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.AssemblyInfoInputs.cache
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.AssemblyInfo.cs
+C:\Users\55219\source\repos\ExercicioUml\bin\Debug\netcoreapp3.1\ExercicioUml.exe
+C:\Users\55219\source\repos\ExercicioUml\bin\Debug\netcoreapp3.1\ExercicioUml.deps.json
+C:\Users\55219\source\repos\ExercicioUml\bin\Debug\netcoreapp3.1\ExercicioUml.runtimeconfig.json
+C:\Users\55219\source\repos\ExercicioUml\bin\Debug\netcoreapp3.1\ExercicioUml.runtimeconfig.dev.json
+C:\Users\55219\source\repos\ExercicioUml\bin\Debug\netcoreapp3.1\ExercicioUml.dll
+C:\Users\55219\source\repos\ExercicioUml\bin\Debug\netcoreapp3.1\ExercicioUml.pdb
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.dll
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.pdb
+C:\Users\55219\source\repos\ExercicioUml\obj\Debug\netcoreapp3.1\ExercicioUml.genruntimeconfig.cache
