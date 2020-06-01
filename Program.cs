@@ -32,6 +32,8 @@ namespace ExercicioUml {
 
             Console.WriteLine("Digite a quantidade de contratos: ");
             int contrato = Convert.ToInt32(Console.ReadLine());
+            int a;
+
         }
     }
 }
